@@ -1,7 +1,7 @@
-# lines
+# Data Management gui2delines
 gui2delines for gui2de
 
-# Principles of Data Management
+## Principles of Data Management
 
 - Program files go into Drive and data files go into [Box](/using-box)
 - No data is ever downloaded to your personal machine outside of Box Sync or Box Drive
@@ -14,3 +14,9 @@ gui2delines for gui2de
   - `3_outputs`
 - Admin data is stored on Box using the same folder structure
 - Data is never shared over email. Data sharing folders are set up for each partner to drop data in it.
+
+
+## Instructions for building this content
+- Create new folder (lower case and dashes only) with page titles for the sidebar menu
+- Create md files for each topic under each folder
+- WB DIME website for reference/example (too many layers): https://github.com/worldbank/dime-standards
