@@ -1,5 +1,4 @@
-# Data Management gui2delines
-gui2delines for gui2de
+# Data Management _gui2de_*lines*
 
 ## Principles of Data Management
 
