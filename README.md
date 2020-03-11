@@ -3,7 +3,7 @@ gui2delines for gui2de
 
 # Principles of Data Management
 
-- Programatic files go into Drive and data goes into Box
+- Program files go into Drive and data files go into Box
 - No data is ever downloaded to your personal machine outside of Box Sync or Box Drive
 - Filepaths in dofiles are generated relatively to be run from machines of different team members
 - Surveycto forms are encrypted end-to-end using a public/private key pair stored in gui2de Box and shared only with team members who need to download the data
