@@ -1,4 +1,4 @@
-# Data Management _gui2de_**lines**
+# Data Management _gui2de_lines
 
 ## Principles of Data Management
 
