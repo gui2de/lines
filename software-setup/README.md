@@ -1,5 +1,0 @@
-# Server setup
-
-## Why
-
-## How
