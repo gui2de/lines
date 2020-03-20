@@ -22,7 +22,7 @@ The gui2de remote server is a computer you can log into to do work and store fil
 ### Navigating the server
 
 1. Open file navigator  
-2. Navigate to E:/ and your netid 
+2. Navigate to E:/ and your netid  
     This is your personal folder where your personal files can sit. If you are working on projects that have github repos, you should clone the repos in your personal folder file and work from that local copy on the server. It means project folders will be duplicated multiple times on the server, which is fine for space management as long as no heavy data is stored on github (which it shouldn't, anyway).
 
 ### Clone your project's repos  
