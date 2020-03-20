@@ -20,6 +20,7 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
 
 1. **Connect to the gui2de server**
     1. Open the Windows Remote Desktop app
+        - If you are on Windows, it is installed on your computer by default and yuo can look for it by typing "Remote Desktop" in the Start Menu
         - If you are on Mac, you need to download it on the [appstore](https://apps.apple.com/us/app/microsoft-remote-desktop/id714464092) and set up the gui2de server as a remote PC with the credentials below
     1. Type in or select the Georgetown address: **`172.17.16.195`**
     1. Type in or select your username: **`GEORGETOWN\netid`**
