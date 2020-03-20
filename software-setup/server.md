@@ -31,5 +31,5 @@ Below are instructions to clone projet repos using Git Bash.
 
 1. Go to the Start page to open GitBash  
 2. Use the following commands
-    > cd "your E:/ user folder address in quotes" 
+    > cd "your E:/ user folder address in quotes"  
     > git clone "the git repo url in quotes"
