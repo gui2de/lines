@@ -7,7 +7,7 @@ Each Georgetown affiliated individual listed on the IRB of any study should have
 - Go to [https://gu-pass.georgetown.edu/](https://gu-pass.georgetown.edu/login.html)
 - Log in with your GU netid and password
 - Click on "Financial COI Policy Disclosure" and fill out the form
-- You can find precise definitions for each term on the form on the [FCOI website](https://fcoi.georgetown.edu/appendices/appendix/)
+    - You can find precise definitions for each term on the form on the [FCOI website](https://fcoi.georgetown.edu/appendices/appendix/)
 
 ### When to submit your FCOI form in GU pass
 Every Georgetown affiliated researcher or research staff should submit a form when starting employment and
