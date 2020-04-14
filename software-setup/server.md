@@ -37,7 +37,7 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
 
 Below are instructions to clone projet repos using Git Bash.
 
-1. Go to the Start page to open GitBash 
+1. Go to the Start page to open GitBash  
     If you can't find the Start page, open the file explorer and navigate to C:/Program Files/Git where you can find the GitBash application and open it. (GitBash.exe)
 1. Use the following commands
     > cd "your E:/ user folder address in quotes"  
