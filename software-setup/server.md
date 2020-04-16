@@ -13,10 +13,10 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
         - Instructions on how to download and set up the CISCO client for the first time are [here](https://uis.georgetown.edu/security/vpn/)
     1. Type in `guvpn.georgetown.edu` or select `Georgetown VPN` to connect
     1. In the login box, select
-        1. Group: Duo-two-factor
-        1. Username: netid
-        1. Password: your Georgetown password
-        1. Second password: either type "push" to open a push notification on your Duo app, or type a fixed passcode from Duo
+        1. Group: `Duo-two-factor'
+        1. Username: `your netid'
+        1. Password: `your Georgetown password'
+        1. Second password: either type `push' to open a push notification on your Duo app, or type a 6-digit fixed `passcode' from the Duo app
 
 1. **Connect to the gui2de server**
     1. Open the Windows Remote Desktop app
