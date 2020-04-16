@@ -35,7 +35,9 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
 
 ### Clone your project's repos  
 
-Below are instructions to clone projet repos using Git Bash.
+You can then clone your project repo using either Git Bash, Git Desktop or Git Kraken according to your preference, all three of which are installed on the server. You can find the applications on the server from the Start page (mouse hover on the bottom left corner of the screen as if to exit it) or by opening the file explorer and navigating to C:/Program Files.
+
+Below are more detailed instructions for cloning a repo using GitBash.
 
 1. Go to the Start page to open GitBash  
     If you can't find the Start page, open the file explorer and navigate to C:/Program Files/Git where you can find the GitBash application and open it. (GitBash.exe)
