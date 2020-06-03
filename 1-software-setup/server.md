@@ -13,10 +13,10 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
         - Instructions on how to download and set up the CISCO client for the first time are [here](https://uis.georgetown.edu/security/vpn/)
     1. Type in `guvpn.georgetown.edu` or select `Georgetown VPN` to connect
     1. In the login box, select
-        1. Group: Duo-two-factor
-        1. Username: netid
-        1. Password: your Georgetown password
-        1. Second password: either type "push" to open a push notification on your Duo app, or type a fixed passcode from Duo
+        1. Group: `Duo-two-factor`
+        1. Username: `your netid`
+        1. Password: `your Georgetown password`
+        1. Second password: either type `push` to open a push notification on your Duo app, or type a 6-digit fixed `passcode` from the Duo app
 
 1. **Connect to the gui2de server**
     1. Open the Windows Remote Desktop app
@@ -35,9 +35,12 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
 
 ### Clone your project's repos  
 
-Below are instructions to clone projet repos using Git Bash.
+You can then clone your project repo using either Git Bash, Git Desktop or Git Kraken according to your preference, all three of which are installed on the server. You can find the applications on the server from the Start page (mouse hover on the bottom left corner of the screen as if to exit it) or by opening the file explorer and navigating to C:/Program Files.
+
+Below are more detailed instructions for cloning a repo using GitBash.
 
 1. Go to the Start page to open GitBash  
+    If you can't find the Start page, open the file explorer and navigate to C:/Program Files/Git where you can find the GitBash application and open it. (GitBash.exe)
 1. Use the following commands
     > cd "your E:/ user folder address in quotes"  
     > git clone "the git repo url in quotes"
