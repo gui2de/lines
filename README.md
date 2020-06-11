@@ -24,8 +24,8 @@ To contribute to research projects:
 
 1. [Map](3-data-collection/data-mapping.md) project data and define project codebooks and documentation  
 1. Write [survey](3-data-collection/survey-writing.md) questions
-1. Code survey into [SurveyCTO](3-data-collection/survey-cto.md)
-  - If the survey is happening on the phone, code the [Callsheet](3-data-collection/survey-cto.md) within the survey.
+1. Code survey into [SurveyCTO](3-data-collection/survey-cto.md).
+    - If the survey is happening on the phone, code the [Callsheet](3-data-collection/survey-cto.md) within the survey.
 1. Test and pilot the survey in the field
 1. Train enumerators and update survey from their feedback
 1. Run [High Frequency Checks](3-data-collection/hfc.md) during data collection
