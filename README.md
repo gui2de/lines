@@ -1,18 +1,46 @@
-# Data Management _gui2de_**lines**
+# Welcome to the _gui2de_**lines**
 
-## Principles of Data Management
+## Software setup
 
-- Program files go into Drive and data files go into [Box](/data-handling/box.md)
-- No data is ever downloaded to your personal machine outside of Box Sync or Box Drive
-- Filepaths in dofiles are generated relatively to be run from machines of different team members
-- Surveycto forms are encrypted end-to-end using a public/private key pair stored in gui2de Box and shared only with team members who need to download the data
-- The base data folder structure is as follows. You can add specific sub folders under each of these base folders as needed:
-  - `0_scripts`
-  - `1_raw`
-  - `2_clean`
-  - `3_outputs`
-- Admin data is stored on Box using the same folder structure
-- Data is never shared over email. Data sharing folders are set up for each partner to drop data in it.
+To collaborate with gui2de staff and faculty:
+- Set up your [Slack](1-software-setup/slack.md) account
+- Check your [Zoom](1-software-setup/zoom.md) parameters
+- Create a Github account and download Gitkraken
+- Access the gui2de [server](1-software-setup/server.md)
+
+For your coding needs and assignments, you may need:
+- [ArcGIS](1-software-setup/arcgis.md)
+- [Stata16](1-software-setup/stata16.md)
+
+
+## Research Ethics
+
+To contribute to research projects:
+- Set up your [IRB](2-research-ethics/IRB.md) account and complete the CITI Training
+- Fill out your [Financial Conflict of Interest](2-research-ethics/COI.md) disclosure
+
+
+## Data Collection
+
+1. [Map](3-data-collection/data-mapping.md) project data and define project codebooks and documentation  
+1. Write [survey](3-data-collection/survey-writing.md) questions
+1. Code survey into [SurveyCTO](3-data-collection/survey-cto.md)
+  - If the survey is happening on the phone, code the [Callsheet](3-data-collection/survey-cto.md) within the survey.
+1. Test and pilot the survey in the field
+1. Train enumerators and update survey from their feedback
+1. Run [High Frequency Checks](3-data-collection/hfc.md) during data collection
+1. Run [Backchecks](3-data-collection/backcheck.md)
+
+
+## Data Management
+
+- Follow standard [folder structure](4-data-management/folder-structure.md)
+- Follow standard [security](4-data-management/security.md) practices
+- Follow standard [reproductibility](4-data-management/reproductibility.md) practices
+
+
+## Data Analysis
+
 
 
 ## Instructions for building this content
