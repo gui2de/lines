@@ -1,8 +1,3 @@
-Instructions for
-- CITI training course
-- IRB account set up
-- IRB study set up
-
 An Institutional Review Board (IRB) plays a major role to safeguard the rights and welfare of all human subjects who participate in research projects conducted by gui 2 de . In compliance with Federal law and institutional policy, all gui2de studies must be reviewed and approved by the GU IRB, in addition to other possible committees or local IRBs. gui 2 de staff and principal investigators must complete training, relating to both human research and minors, and set up a GU IRB account. The following are instructions for completing the human research training and GU IRB setup only. Please, consult with a study coordinator to determine if any additional steps must be made.
 
 # Human Research training
@@ -16,9 +11,8 @@ NOTE: Training may take some time to complete; there are 16 modules, each includ
 
 # GU IRB Account Creation
 1. The new GU IRB system is called [GU-Medstar](https://gumedstarirb.georgetown.edu) (The old GU electronic IRB system was called [eRIC](http://eric.georgetown.edu) and was discontinued as of May 1, 2019)
-1. Try signing into the GU-Medstar portal with your GU netID and password. If you cannot
-access the portal, you will need to request a new account. Fill out the ‘Master New User
-Form’ template, and send it to irboard@georgetown.edu
+1. If you already have an account with the IRB, you can sign in into the GU-Medstar portal with your GU netID and password using the "Georgetown Users" column. 
+    - If you haven't had an IRB account set up yet, you will need to request a new account. Fill out the form for new account available [here](https://georgetown.app.box.com/s/ig6y4xuf6oo9p4jlvphjyze4c0cmciae) and send it to irboard@georgetown.edu. They will notify you when your account is activated.
 
 NOTE: The IRB asks you to allow 7 or more business days for activation. After your registration request is approved, you can log into GU-Medstar using your GU netID and password.
 
