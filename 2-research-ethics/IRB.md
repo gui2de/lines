@@ -12,9 +12,7 @@ NOTE: Training may take some time to complete; there are 16 modules, each includ
 # GU IRB Account Creation
 - The new GU IRB system is called [GU-Medstar](https://gumedstarirb.georgetown.edu) (The old GU electronic IRB system was called [eRIC](http://eric.georgetown.edu) and was discontinued as of May 1, 2019)
 - If you already have an account with the IRB, you can sign in into the GU-Medstar portal with your GU netID and password using the "Georgetown Users" column. 
-    - If you haven't had an IRB account set up yet, you will need to request a new account. Fill out the form for new account available [here](https://georgetown.app.box.com/s/ig6y4xuf6oo9p4jlvphjyze4c0cmciae) and send it to irboard@georgetown.edu. They will notify you when your account is activated.
-
-NOTE: The IRB asks you to allow 7 or more business days for activation. After your registration request is approved, you can log into GU-Medstar using your GU netID and password.
+    - If you haven't had an IRB account set up yet, you will need to request a new account. Fill out the form for new account available [here](https://georgetown.app.box.com/s/ig6y4xuf6oo9p4jlvphjyze4c0cmciae) and send it to irboard@georgetown.edu. They will notify you when your account is activated. NOTE: The IRB asks you to allow 7 or more business days for activation. 
 
 # GU IRB study setup
 Before setting up your study in the IRB, review the IRB checklists on whether you need IRB review and what protocols your study falls under.
