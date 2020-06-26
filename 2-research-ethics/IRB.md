@@ -28,7 +28,7 @@ For this, use this [HRP-312 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/s
 - If your research is not exempt, you will need to fill out the protocol template.
 
 ## Create a study record in the [GU-Medstar IRB System](https://gumedstarirb.georgetown.edu/)
-![IRB New Study](img/irb_newstudy.png)
+![IRB New Study](img/irb_newstudy.PNG)
   - Refer to the section above to set up your account within the system if it isn't activated yet. You should be using your GU netid for login.
   - Click on Create New Study. The screenshot below shows you what you should have prepared to create the record
       - Q2: Short title is 50 characters max and identifies the study in the IRB system
@@ -40,4 +40,4 @@ For this, use this [HRP-312 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/s
           - The protocol is a dense, lengthy document with detailed sections below. You should plan accordingly when creating a new study record. When the study is pretty simple or straightforward, a lot of the protocol sections can be left empty by indicating N/A.
           - If you believe your study falls under an IRB exemption, you will not need to fill out the protocol template, but instead provide a study description like the one in this [example (COVID-19 Student Survey)](https://osf.io/h3qtp/).
 
-![IRB Protocol Template Sections](img/irb_protocol.png)
+![IRB Protocol Template Sections](img/irb_protocol.PNG)
