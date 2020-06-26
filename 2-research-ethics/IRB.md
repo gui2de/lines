@@ -17,15 +17,17 @@ NOTE: Training may take some time to complete; there are 16 modules, each includ
 # GU IRB study setup
 Before setting up your study in the IRB, review the IRB checklists on whether you need IRB review and what protocols your study falls under.
 
-1. Determine if you are conducting Human Research
-  - For this, use this [HRP-310 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/DHI7P06EI6LKT74ITVUT24G8DD/GU-HRP-310%20-%20WORKSHEET%20-%20Human%20Research%20Determination%20PRE-2018.docx)
-  - If you are not doing human research, you do not need to create any IRB record
-  - All cases of human research require you to create a record in the IRB system (whether for exemption or approval)
-1. (if yes) Determine if your research is IRB exempt
-  - For this, use this [HRP-312 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/CR0L78CS2SO4V1KJ8RHP1JGK01/GU-HRP-312%20-%20WORKSHEET%20-%20Exemption%20Determination%20PRE-2018.docx)
-  - If your research is exempt, you will need a short study description instead of the full protocol template to attach with the study.
-  - The study description should include enough details to make the case that the research is exempt. An example of an approved study description for an IRB exemption can be found [here (COVID-19 Student Survey)](https://osf.io/h3qtp/).
-1.  Create a study record in the [GU-Medstar IRB System](https://gumedstarirb.georgetown.edu/)
+## Determine that you are conducting Human Research
+For this, use this [HRP-310 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/DHI7P06EI6LKT74ITVUT24G8DD/GU-HRP-310%20-%20WORKSHEET%20-%20Human%20Research%20Determination%20PRE-2018.docx)
+- If you are not doing human research, you do not need to create any IRB record and the following sections are irrelevant
+- All cases of human research require you to create a record in the IRB system, whether for exemption or approval
+
+## Determine whether your research is IRB exempt
+For this, use this [HRP-312 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/CR0L78CS2SO4V1KJ8RHP1JGK01/GU-HRP-312%20-%20WORKSHEET%20-%20Exemption%20Determination%20PRE-2018.docx)
+- If your research is exempt, you will need a short study description instead of the full protocol template to attach with the study. The study description should include enough details to make the case that the research is exempt. An example of an approved study description for an IRB exemption can be found [here (COVID-19 Student Survey)](https://osf.io/h3qtp/).
+- If your research is not exempt, you will need to fill out the protocol template.
+
+## Create a study record in the [GU-Medstar IRB System](https://gumedstarirb.georgetown.edu/)
 ![IRB New Study](img/irb_newstudy.png)
   - Refer to the section above to set up your account within the system if it isn't activated yet. You should be using your GU netid for login.
   - Click on Create New Study. The screenshot below shows you what you should have prepared to create the record
@@ -35,6 +37,7 @@ Before setting up your study in the IRB, review the IRB checklists on whether yo
       - Q5: If the study is conducted with another institution whose IRB is willing to serve as IRB of record for the Georgetown teams, you can indicate it here and you will not be required to provide a protocol. You will be asked further documentation about the other IRB approval.
       - Q8: The IRB you should select is Georgetown IRB
       - Q9: You should attach the study protocol following the [HRP-503 Protocol Template](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/LSK0TCN5PQ3K5A4I92MF64P50B/GU-HRP-503%20-%20TEMPLATE%20PROTOCOL%2011.14.18.docx).
-      ![IRB Protocol Template Sections](img/irb_protocol.png)
           - The protocol is a dense, lengthy document with detailed sections below. You should plan accordingly when creating a new study record. When the study is pretty simple or straightforward, a lot of the protocol sections can be left empty by indicating N/A.
           - If you believe your study falls under an IRB exemption, you will not need to fill out the protocol template, but instead provide a study description like the one in this [example (COVID-19 Student Survey)](https://osf.io/h3qtp/).
+
+![IRB Protocol Template Sections](img/irb_protocol.png)
