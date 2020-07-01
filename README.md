@@ -37,11 +37,11 @@ To start a new research project:
 ## Remote Data Collection
 
 1. Prepare your [Workplan](3-data-collection-remote/workplan-remote.md) for remote data collection
-1. Adapt our template protocol to your survey needs
+1. Adapt our [template protocol](3-data-collection-remote/doc/Template Protocol.docx) to your survey needs
 1. Prepare the [Cases](3-data-collection-remote/cases.md) dataset (the sample to be surveyed) for online callsheet management
 1. Adapt your [survey questions](3-data-collection-remote/survey-writing-remote.md) to phone data collection
 1. Code the [Callsheet](3-data-collection-remote/callsheet.md) within your SurveyCTO survey
-1. [Train](3-data-collection-remote/training-remote.md) enumerators over Zoom
+1. Prepare [training](3-data-collection-remote/training-remote.md) materials and train enumerators over [Zoom](1-software-setup/zoom.md)
 1. Run [High Frequency Checks](3-data-collection-remote/hfc-remote.md) during data collection
 1. Run [Backchecks](3-data-collection-remote/backcheck-remote.md)
 
