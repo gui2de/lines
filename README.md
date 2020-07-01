@@ -37,7 +37,7 @@ To start a new research project:
 ## Remote Data Collection
 
 1. Prepare your [Workplan](3-data-collection-remote/workplan-remote.md) for remote data collection
-1. Adapt our [template protocol](3-data-collection-remote/doc/Template Protocol.docx) to your survey needs
+1. Adapt our [template protocol](3-data-collection-remote/doc/Template_Protocol.docx) to your survey needs
 1. Prepare the [Cases](3-data-collection-remote/cases.md) dataset (the sample to be surveyed) for online callsheet management
 1. Adapt your [survey questions](3-data-collection-remote/survey-writing-remote.md) to phone data collection
 1. Code the [Callsheet](3-data-collection-remote/callsheet.md) within your SurveyCTO survey
