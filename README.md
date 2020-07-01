@@ -8,11 +8,7 @@ To collaborate with gui2de staff and faculty:
 - Create a Github account and download Gitkraken
 - Access the gui2de [server](1-software-setup/server.md)
 
-For your coding needs and assignments, you may need:
-- [ArcGIS](1-software-setup/arcgis.md)
-- [Stata16](1-software-setup/stata16.md)
-- Python
-- R
+For your coding needs and assignments, you may need: [ArcGIS](1-software-setup/arcgis.md), [Stata16](1-software-setup/stata16.md), Python, R.
 
 ## Research Ethics
 
@@ -37,7 +33,7 @@ To start a new research project:
 ## Remote Data Collection
 
 1. Prepare your [Workplan](3-data-collection-remote/workplan-remote.md) for remote data collection
-1. Adapt our [template protocol](3-data-collection-remote/doc/Template_Protocol.docx) to your survey needs
+1. Adapt our [template protocol](https://drive.google.com/file/d/1Hb7OxQlFTymBOYGE_Y8qFdAjRoPnKVeC/view?usp=sharing) to your survey needs
 1. Prepare the [Cases](3-data-collection-remote/cases.md) dataset (the sample to be surveyed) for online callsheet management
 1. Adapt your [survey questions](3-data-collection-remote/survey-writing-remote.md) to phone data collection
 1. Code the [Callsheet](3-data-collection-remote/callsheet.md) within your SurveyCTO survey
