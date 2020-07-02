@@ -33,9 +33,15 @@ The _gui<sup>2</sup>de_ remote server is a computer you can log into to do work 
 1. Navigate to E:/ and your netid  
     This is your personal folder where your personal files can sit. If you are working on projects that have github repos, you should clone the repos in your personal folder file and work from that local copy on the server. It means project folders will be duplicated multiple times on the server, which is fine for space management as long as no heavy data is stored on github (which it shouldn't, anyway).
 
-### Clone your project's repos  
+### Getting your files in your server directory  
 
-You can then clone your project repo using either Git Bash, Git Desktop or Git Kraken according to your preference, all three of which are installed on the server. You can find the applications on the server from the Start page (mouse hover on the bottom left corner of the screen as if to exit it) or by opening the file explorer and navigating to C:/Program Files.
+#### Copy files from your local desktop to the server desktop
+The Remote Desktop can be minized as a separate application open in your computer, and you can copy/paste your files to the server as needed.
+
+You can also give yourself access to your own machine's harddrive from within the remote desktop the first time you log onto the server: select "More options" on the first screen of the Remote Desktop application and then under Local Devices choose the 'More...' button.
+
+#### Clone your repo (for Git users)
+If your project is on Github, you can then clone your project repo using either Git Bash, Git Desktop or Git Kraken according to your preference, all three of which are installed on the server. You can find the applications on the server from the Start page (mouse hover on the bottom left corner of the screen as if to exit it) or by opening the file explorer and navigating to C:/Program Files.
 
 Below are more detailed instructions for cloning a repo using GitBash.
 
