@@ -5,7 +5,7 @@
 To collaborate with gui2de staff and faculty:
 - Set up your [Slack](1-software-setup/slack.md) account
 - Check your [Zoom](1-software-setup/zoom.md) parameters
-- Create a Github account and download Gitkraken
+- Create a Github account and download Gitkraken or Github Desktop
 - Access the gui2de [server](1-software-setup/server.md)
 
 For your coding needs and assignments, you may need: [ArcGIS](1-software-setup/arcgis.md), [Stata16](1-software-setup/stata16.md), Python, R.
