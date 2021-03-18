@@ -22,8 +22,7 @@ To start a new research project:
 ## Data Collection
 
 1. [Map](3-data-collection/data-mapping.md) project data and define project codebooks and documentation  
-1. Write [survey](3-data-collection/survey-writing.md) questions
-1. Code survey into [SurveyCTO](3-data-collection/survey-cto.md)
+1. Create a [SurveyCTO](3-data-collection/survey-cto.md) 
 1. Prepare the data collection workplan
 1. Test and pilot the survey in the field
 1. Train enumerators and update survey from their feedback
@@ -35,7 +34,7 @@ To start a new research project:
 1. Prepare your [Workplan](3-data-collection-remote/workplan-remote.md) for remote data collection
 1. Adapt our [template protocol](https://drive.google.com/file/d/1Hb7OxQlFTymBOYGE_Y8qFdAjRoPnKVeC/view?usp=sharing) to your survey needs
 1. Prepare the [Cases](3-data-collection-remote/cases.md) dataset (the sample to be surveyed) for online callsheet management
-1. Adapt your [survey questions](3-data-collection-remote/survey-writing-remote.md) to phone data collection
+1. Create a [SurveyCTO](3-data-collection/survey-cto.md) and rememebr to adapt your [survey questions](3-data-collection-remote/survey-writing-remote.md) to phone data collection
 1. Code the [Callsheet](3-data-collection-remote/callsheet.md) within your SurveyCTO survey
 1. Prepare [training](3-data-collection-remote/training-remote.md) materials and train enumerators over [Zoom](1-software-setup/zoom.md)
 1. Run [High Frequency Checks](3-data-collection-remote/hfc-remote.md) during data collection
