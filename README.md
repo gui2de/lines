@@ -18,7 +18,7 @@ To contribute to existing research projects:
 
 To start a new research project:
 - [Create a new study](2-research-ethics/IRB_study.md) in the IRB system to seek IRB approval
-- [Amend an existing study](2-research-ethics/IRB_amend.md) in the [IRB system] 
+- [Amend an existing study](2-research-ethics/IRB_amend.md) in the IRB system 
 
 
 ## Data Collection
