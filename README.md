@@ -13,11 +13,13 @@ For your coding needs and assignments, you may need: [ArcGIS](1-software-setup/a
 ## Research Ethics
 
 To contribute to existing research projects:
-- Set up your [IRB](2-research-ethics/IRB.md) account and complete the CITI Training
+- Set up your [IRB](2-research-ethics/IRB_indiv.md) account and complete the CITI Training
 - Fill out your [Financial Conflict of Interest](2-research-ethics/COI.md) disclosure
 
 To start a new research project:
-- Create a new study in the [IRB system](2-research-ethics/IRB.md) to seek IRB approval
+- [Create a new study](2-research-ethics/IRB_study.md) in the IRB system to seek IRB approval
+- [Amend an existing study](2-research-ethics/IRB_amend.md) in the [IRB system] 
+
 
 ## Data Collection
 
