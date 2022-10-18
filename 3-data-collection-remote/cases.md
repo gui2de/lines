@@ -2,7 +2,7 @@
 The Case database (or dataset) is the list of respondents you are reaching with the phone survey.
 
 # Initialization
-One challenge with the Case management is that only one database can be created per server. This means that every project may need a new server, or that different research manager on each project need to coordinate to manage the same Case database for their different projects.
+One challenge with the Case management is that only one database can be created per team. This means that every project may need a new team, or that different research manager on each project need to coordinate to manage the same Case database for their different projects.
 
 # Specifications
 - be a csv
