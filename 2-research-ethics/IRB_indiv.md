@@ -4,10 +4,16 @@ An Institutional Review Board (IRB) plays a major role to safeguard the rights a
 1. Register and create an account at [CITI Program](http://citiprogram.org)
 1. Select Georgetown University for your organization affiliation.
 1. Answer the questions accordingly to your position.
-1. Complete the Human Research ( Group 2. Social and behavioral research investigators and key personnel ) training.
+1. Complete the Human Research ( Group 2. Social and behavioral research investigators and key personnel ) training. Below are [more instructions](https://ora.georgetown.edu/irb/trainingrequirements/hsptraining/) on how to select the correct course:  
+           - After logging in, click the "Add course or update your learner groups for Georgetown University" on the "Main Menu" page  
+           - You will be directed to a page titled "Select Curriculum - Georgetown University", scroll down to question 1 and select **Group 2**  
+           - Question 3 and Question 5 must be answered, however, you are not required to take these courses for the certificate, so please select "Not at this time"  
+           - Scroll to the bottom of the page and click “Submit”.  You will now be able to complete the Human Subject Protection training modules.  
 1. When you have completed the training, submit your certificate to the Study Coordinator managing the IRB submission(s). Your certificate will be added to a shared folder in Box, and an amendment will be made to add you to the IRB submission(s).
 
-NOTE: Training may take some time to complete; there are 16 modules, each including a quiz (3-5 questions). Please plan accordingly.
+NOTE: Training may take some time to complete; there are 16 modules, each including a quiz (3-5 questions). Please plan accordingly. The 16 modules should look like the ones below (they may have slightly changed, but if it looks similar you are at the right place!).
+
+![image](img/citi-modules.png)
 
 # GU IRB Account Creation
 - The new GU IRB system is called [GU-Medstar](https://gumedstarirb.georgetown.edu) (The old GU electronic IRB system was called [eRIC](http://eric.georgetown.edu) and was discontinued as of May 1, 2019)
