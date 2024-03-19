@@ -3,7 +3,9 @@ An Institutional Review Board (IRB) plays a major role to safeguard the rights a
 # Human Research training
 1. Register and create an account at [CITI Program](http://citiprogram.org) (use the Register tab)
 1. Select Georgetown University for your organization affiliation. (find Georgetown University under **Select Your Organization Affiliation**)
-1. Answer the questions accordingly to your position.
+1. Do not select the CE course credit option (you will not need to buy course credit to pass the requirement)
+1. If you have a Georgetown email address, use it; if not, use your the email address you use for your Georgetown-affiliated work.  
+1. Answer the questions accordingly to your position. gui2de East Africa affiliated enumerators should select the role "Interviewer".
 1. Complete the Human Research ( Group 2. Social and behavioral research investigators and key personnel ) training. Below are [more instructions](https://ora.georgetown.edu/irb/trainingrequirements/hsptraining/) on how to select the correct course:  
            - After logging in, click the "Add course or update your learner groups for Georgetown University" on the "Main Menu" page  
            - You will be directed to a page titled "Select Curriculum - Georgetown University", scroll down to question 1 and select **Group 2**  
