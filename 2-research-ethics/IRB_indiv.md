@@ -1,8 +1,8 @@
 An Institutional Review Board (IRB) plays a major role to safeguard the rights and welfare of all human subjects who participate in research projects conducted by gui 2 de . In compliance with Federal law and institutional policy, all gui2de studies must be reviewed and approved by the GU IRB, in addition to other possible committees or local IRBs. gui 2 de staff and principal investigators must complete training, relating to both human research and minors, and set up a GU IRB account. The following are instructions for completing the human research training and GU IRB setup only. Please, consult with a study coordinator to determine if any additional steps must be made.
 
 # Human Research training
-1. Register and create an account at [CITI Program](http://citiprogram.org)
-1. Select Georgetown University for your organization affiliation.
+1. Register and create an account at [CITI Program](http://citiprogram.org) (use the Register tab)
+1. Select Georgetown University for your organization affiliation. (find Georgetown University under **Select Your Organization Affiliation**)
 1. Answer the questions accordingly to your position.
 1. Complete the Human Research ( Group 2. Social and behavioral research investigators and key personnel ) training. Below are [more instructions](https://ora.georgetown.edu/irb/trainingrequirements/hsptraining/) on how to select the correct course:  
            - After logging in, click the "Add course or update your learner groups for Georgetown University" on the "Main Menu" page  
