@@ -5,16 +5,19 @@ Before setting up your study in the IRB, review the IRB checklists on whether yo
 
 ## Determine that you are conducting Human Research
 For this, use this [HRP-310 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/DHI7P06EI6LKT74ITVUT24G8DD/GU-HRP-310%20-%20WORKSHEET%20-%20Human%20Research%20Determination%20PRE-2018.docx)
+
 - If you are not doing human research, you do not need to create any IRB record and the following sections are irrelevant
 - All cases of human research require you to create a record in the IRB system, whether for exemption or approval
 
 ## Determine whether your research is IRB exempt
 For this, use this [HRP-312 WORKSHEET](https://gumedstarirb.georgetown.edu/IRB/sd/Doc/0/CR0L78CS2SO4V1KJ8RHP1JGK01/GU-HRP-312%20-%20WORKSHEET%20-%20Exemption%20Determination%20PRE-2018.docx)
+
 - If your research is exempt, you will need a short study description instead of the full protocol template to attach with the study. The study description should include enough details to make the case that the research is exempt. An example of an approved study description for an IRB exemption can be found [here (COVID-19 Student Survey)](https://osf.io/h3qtp/).
 - If your research is not exempt, you will need to fill out the protocol template.
 
 ## Create a study record in the [GU-Medstar IRB System](https://gumedstarirb.georgetown.edu/)
 ![IRB New Study](img/irb_newstudy.PNG)
+
   - Refer to the section above to set up your account within the system if it isn't activated yet. You should be using your GU netid for login.
   - Click on Create New Study. The screenshot below shows you what you should have prepared to create the record
       - Q2: Short title is 50 characters max and identifies the study in the IRB system

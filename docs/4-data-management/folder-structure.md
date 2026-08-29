@@ -1,5 +1,5 @@
 
-- Program files go into Drive and data files go into [Box](/data-handling/box.md)
+- Program files go into Drive and data files go into Box
 
 - The base data folder structure is as follows. You can add specific sub folders under each of these base folders as needed:
 `0_scripts`

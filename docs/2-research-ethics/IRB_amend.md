@@ -5,6 +5,7 @@ While research is ongoing, it is the researcher's respnosibility to update the I
 
 ## Amend an existing study in [GU-Medstar IRB System](https://gumedstarirb.georgetown.edu/)
 ![IRB Study Modification](img/irb_mod.PNG)
+
   - Log onto the GU-Medstar IRB system, navigate to your study and select "Create Modification/CR" on the left navigation bar
   - Chose "Modification" if you are making changes to the study (protocol, survey instruments, etc) and you will then have to specify what type of modification : adding new team memebrs and/or other parts of the study. 
     - You can select both. If you do not select add new team members, you will not be able to change the team composition and you will have to submit a separate MOD for that.

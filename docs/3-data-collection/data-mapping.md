@@ -1,4 +1,5 @@
 At the project design phase, define and set up
+
 - what kind of data will be collected
 - what will be the sources
 

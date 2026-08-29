@@ -1,0 +1,89 @@
+site_name: gui2de lines
+site_description: Onboarding and research workflow guidelines for gui2de
+site_url: https://gui2de.github.io/lines/
+repo_url: https://github.com/gui2de/lines
+repo_name: gui2de/lines
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Software & Accounts:
+      - Slack: 1-software-setup/slack.md
+      - Zoom: 1-software-setup/zoom.md
+      - Server: 1-software-setup/server.md
+      - Stata 16: 1-software-setup/stata16.md
+      - ArcGIS: 1-software-setup/arcgis.md
+  - Research Ethics:
+      - IRB account & CITI training: 2-research-ethics/IRB_indiv.md
+      - Creating a new study: 2-research-ethics/IRB_study.md
+      - Amending a study: 2-research-ethics/IRB_amend.md
+      - Conflict of interest: 2-research-ethics/COI.md
+  - Data Collection:
+      - Data mapping: 3-data-collection/data-mapping.md
+      - SurveyCTO: 3-data-collection/survey-cto.md
+      - Survey writing: 3-data-collection/survey-writing.md
+      - High frequency checks: 3-data-collection/hfc.md
+      - Backchecks: 3-data-collection/backcheck.md
+  - Remote Data Collection:
+      - Workplan: 3-data-collection-remote/workplan-remote.md
+      - Cases dataset: 3-data-collection-remote/cases.md
+      - Survey writing: 3-data-collection-remote/survey-writing-remote.md
+      - Callsheet: 3-data-collection-remote/callsheet.md
+      - Enumerator training: 3-data-collection-remote/training-remote.md
+      - High frequency checks: 3-data-collection-remote/hfc-remote.md
+      - Backchecks: 3-data-collection-remote/backcheck-remote.md
+  - Data Management:
+      - Folder structure: 4-data-management/folder-structure.md
+      - Security: 4-data-management/security.md
+      - Reproducibility: 4-data-management/reproductibility.md
+  - Data Analysis:
+      - Pre-analysis plan: 5-data-analysis/pap.md
+      - Data cleaning: 5-data-analysis/data-cleaning.md
+      - Summary statistics: 5-data-analysis/sum-stats.md
+      - Data visualization: 5-data-analysis/data-viz.md
+      - Baseline report: 5-data-analysis/baseline-report.md
+      - Stata: 5-data-analysis/stata.md
+      - R: 5-data-analysis/r.md
+      - Python: 5-data-analysis/python.md
+      - ArcGIS: 5-data-analysis/arcgis.md

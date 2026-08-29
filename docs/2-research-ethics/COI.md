@@ -11,6 +11,7 @@ Each Georgetown affiliated individual listed on the IRB of any study should have
 
 ### When to submit your FCOI form in GU pass
 Every Georgetown affiliated researcher or research staff should submit a form when starting employment and
+
 - update it once a year at least even without any significant change
 - update it to signal significant changes since last disclosure
 
