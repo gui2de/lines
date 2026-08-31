@@ -1,5 +1,7 @@
 # R
 
-!!! note "To be written"
+- R is free — install [R](https://cran.r-project.org/) and then [RStudio](https://posit.co/download/rstudio-desktop/).
 
-    This page is part of the new handbook structure and has not been written yet.
+Training materials and an installation guide are in the
+[R folder](https://drive.google.com/drive/folders/1g8e4ODIcKXGcLtELstjcBYq-1caz6Gg-)
+of the students Shared Drive.
