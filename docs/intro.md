@@ -1,4 +1,4 @@
-# For staff: intro to gui2de
+# Intro to gui2de
 
 gui2de is a joint initiative of the [McCourt School of Public Policy](https://sites.google.com/georgetown.edu/insidemccourt3/home), at 125 E Street NW in
 Washington DC, and Georgetown's [Economics](https://econ.georgetown.edu/) department, on the main campus at 3700 O Street NW.

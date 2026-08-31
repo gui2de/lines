@@ -57,7 +57,7 @@ plugins:
 nav:
   - Home:
       - index.md
-      - Intro for Staff: intro-for-staff.md
+      - Intro: intro.md
   - Onboarding:
       - onboarding/index.md
       - Workflow & collaboration:
