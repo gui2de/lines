@@ -2,7 +2,7 @@
 
 We run primary data collection on the gui2de SurveyCTO server.
 
-- Ask the Executive Director to set up your account on [gui2de.surveycto.com](https://gui2de.surveycto.com/).
+- Ask your Research Manager to set up your account on [gui2de.surveycto.com](https://gui2de.surveycto.com/).
 - Accounts are per-project; you will only see the forms for projects you work on.
 - Remember that access to collected data also requires [IRB approval](../../research/ethics/irb-account.md).
 

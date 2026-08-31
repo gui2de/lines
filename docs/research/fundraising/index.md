@@ -6,5 +6,5 @@ Money comes into gui2de primarily through four routes, and which one applies cha
 offices involved: [funding opportunities from Georgetown University](grants-internal.md), [external grants and awards](grants-external.md), [gifts](gifts.md), and
 [revenue generating agreements](rgas.md).
 
-When applying for a new internal or external grant, notify the Executive Director so a development folder can be
+When applying for a new internal or external grant, notify your Research Manager so a development folder can be
 created before you start.

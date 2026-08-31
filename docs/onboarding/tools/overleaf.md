@@ -3,7 +3,7 @@
 We write papers and reports in LaTeX on Overleaf.
 
 - Create a free [Overleaf](https://www.overleaf.com/) account with your Georgetown email. No paid subscription is needed to start.
-- A pro account may be available through gui2de — ask the Executive Director.
+- A pro account may be available through gui2de — ask your Research Manager.
 - Start from the [gui2de Overleaf template](https://docs.google.com/document/d/1eQEUGok2bhKlyoBaIsollB6PGoYJB61AcC6sAXsPC3A/edit).
 
 Training materials are in the
