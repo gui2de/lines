@@ -1,5 +1,4 @@
 # Data analysis
 
-!!! note "To be written"
-
-    This page is part of the new handbook structure and has not been written yet.
+Our [pre-analysis plan](pap.md) should be registered before analysis begins. The
+[style guide](style-guide.md) sets our conventions for writing analysis code.

@@ -1,5 +1,7 @@
 # Project management
 
-!!! note "To be written"
+How gui2de projects are run and how their outputs look.
 
-    This page is part of the new handbook structure and has not been written yet.
+Our [visual identity](visual-identity.md) sets colours, fonts and formatting for tables and
+figures. [Templates](templates.md) covers the standard documents — lessons learned, preliminary
+results decks, terms of reference — and [checklists](checklists.md) the recurring process checks.

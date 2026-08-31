@@ -1,5 +1,4 @@
 # Office life
 
-!!! note "To be written"
-
-    This page is part of the new handbook structure and has not been written yet.
+Practicalities of the buildings we work in: [125 E Street in DC](dc.md), and
+[Nairobi](nairobi.md).

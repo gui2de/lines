@@ -1,5 +1,4 @@
 # Publication
 
-!!! note "To be written"
-
-    This page is part of the new handbook structure and has not been written yet.
+Research reaches an audience two ways: short [blog posts](blogs.md) on the gui2de website, and the
+[working paper series](working-papers.md) hosted in the DigitalGeorgetown repository.

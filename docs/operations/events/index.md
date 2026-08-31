@@ -1,5 +1,5 @@
 # Events
 
-!!! note "To be written"
-
-    This page is part of the new handbook structure and has not been written yet.
+Our standing [seminar series](seminar-series.md) runs weekly with the Economics department during
+the academic year. For one-off events, [organizing events](organizing-events.md) covers booking
+rooms and space at 125 E Street.

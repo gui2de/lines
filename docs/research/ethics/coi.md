@@ -1,4 +1,3 @@
-GU PASS is Georgetown University's research regulatory and compliance online system for submiting Financial Conflict of Interest Disclosures, Main Campus Internal Grant Proposals and Sabbatical Leave Requests, and External Grant Proposals.
 
 ## Financial Conflicts of Interest
 Each Georgetown affiliated individual listed on the IRB of any study should have their FCOI up to date on GU PASS.

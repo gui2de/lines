@@ -1,4 +1,4 @@
-An Institutional Review Board (IRB) plays a major role to safeguard the rights and welfare of all human subjects who participate in research projects conducted by gui 2 de . In compliance with Federal law and institutional policy, all gui2de studies must be reviewed and approved by the GU IRB, in addition to other possible committees or local IRBs. gui 2 de staff and principal investigators must complete training, relating to both human research and minors, and set up a GU IRB account. The following are instructions for completing the human research training and GU IRB setup only. Please, consult with a study coordinator to determine if any additional steps must be made.
+The project manager is responsible for seeking IRB approval for a study before data collection starts. The instructions below go into how. If you are just a collaborator on an existing study, ask the project manager to add you to the team as a member.
 
 # GU IRB study setup
 Before setting up your study in the IRB, review the IRB checklists on whether you need IRB review and what protocols your study falls under.

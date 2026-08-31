@@ -1,4 +1,3 @@
-An Institutional Review Board (IRB) plays a major role to safeguard the rights and welfare of all human subjects who participate in research projects conducted by gui 2 de . In compliance with Federal law and institutional policy, all gui2de studies must be reviewed and approved by the GU IRB, in addition to other possible committees or local IRBs. gui 2 de staff and principal investigators must complete training, relating to both human research and minors, and set up a GU IRB account. The following are instructions for completing the human research training and GU IRB setup only. Please, consult with a study coordinator to determine if any additional steps must be made.
 
 # Human Research training
 1. Register and create an account at [CITI Program](http://citiprogram.org) (use the Register tab)

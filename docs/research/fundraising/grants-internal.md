@@ -1,4 +1,4 @@
-# Grants
+# Internal Grants
 
 !!! note "To be written"
 

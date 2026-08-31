@@ -5,4 +5,4 @@
   `0_scripts` · `1_raw` · `2_clean` · `3_outputs`
 - Admin data is stored on Box using the same folder structure
 - For historical projects, the folder structure may differ
-- Filepaths in do-files are written relative to the repo, so they run on any team member's machine
+- Filepaths in do-files or scripts are written relative to the repo, so they run on any team member's machine. Globals and/or if conditions at the top of the file can be used to make sure they are fully *inter-operable*.

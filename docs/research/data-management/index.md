@@ -1,12 +1,12 @@
 # Data management
 
-At the project design phase, define and set up:
+At the project design phase, define what kind of data will be collected and what the sources will
+be. Each type — primary, secondary, administrative — carries different handling requirements.
 
-- what kind of data will be collected
-- what will be the sources
+While the onboarding material cover [high-level folder structure principles](../../onboarding/workflow/folder-structure.md), this guideline covers important principles of **[data management and storage](storage.md)** to follow during any research project. 
 
-This guideline will include a description of each type of data (primary, secondary, admin, etc.)
-and corresponding guidelines for handling it.
+In addition :   
 
-See also the [folder structure](../../onboarding/workflow/folder-structure.md) guideline in the
-onboarding section.
+-  When data is collected from SurveyCTO, it should be **end-to-end [encrypted](encryption.md).**  
+-  When data is obtained from a partner or a third-party, it may be subject to **[Data Use/Sharing Agreements](dsa.md)** to be signed between institutions.  
+-  Before making **[data public](sharing.md)**, it needs to be anonymized and properly vetted.  

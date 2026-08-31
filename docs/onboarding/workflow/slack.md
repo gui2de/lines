@@ -1,6 +1,6 @@
 # Slack
 
-We use Slack as the private space for gui2de staff and RAs to talk and ask questions about
+We use Slack as the private space for gui2de staff, faculty, RAs, interns and external partners to talk and ask questions about
 projects and methods.
 
 ## Getting set up
@@ -11,11 +11,10 @@ projects and methods.
 
 ## How we use it
 
+- Start with the pinned content in `#0-start-here` to get familiar with our workspace.
 - **Channels** are named starting with the project, so they sort together and are easy to find.
-- Ask questions in the public **#help** channels — `#help-code`, `#help-surveys`, `#help-slack`.
-  Answers benefit the whole team.
-- **#staff-only** is for RAs and staff to ask questions or share tips without PIs in the channel.
-- Check a channel's **pinned items** first — common answers live there.
-- **Reply in threads**, not in the main channel. For feedback on a deliverable, one thread per
-  document and a ✅ reaction once each point is addressed.
+- Ask questions in the public **#help** channels when possible (`#help-code`, `#help-surveys`, or the generic `#help`).
+  Answers can benefit the whole team.
+- Check a channel's **pinned items** first: common answers and useful documents live there.
+- **Reply in threads**, not in the main channel, to avoid clogging the main discussion.
 - Tag people with `@name`; use `@channel` or `@here` sparingly.
