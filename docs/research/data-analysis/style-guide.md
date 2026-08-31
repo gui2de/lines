@@ -71,4 +71,4 @@ beside the do-files, with archived versions named by date and author initials â€
 
 ## Further reading
 
-- Gentzkow & Shapiro, [Code and Data for the Social Sciences: A Practitioner's Guide](http://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf)
+- Gentzkow & Shapiro, [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
