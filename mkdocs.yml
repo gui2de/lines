@@ -62,7 +62,7 @@ nav:
       - onboarding/index.md
       - Workflow & collaboration:
           - onboarding/workflow/index.md
-          - Folder structure: onboarding/workflow/folder-structure.md
+          - Files and folders: onboarding/workflow/files-and-folders.md
           - Slack: onboarding/workflow/slack.md
           - Zoom: onboarding/workflow/zoom.md
           - Professionalism: onboarding/workflow/professionalism.md
@@ -78,6 +78,7 @@ nav:
   - Research:
       - research/index.md
       - Design: research/research-design.md
+      - Workflow: research/workflow.md
       - Fundraising:
           - research/fundraising/index.md
           - Internal Grants: research/fundraising/grants-internal.md
@@ -93,7 +94,7 @@ nav:
           - Amendments: research/ethics/irb-amendments.md
       - Data management:
           - research/data-management/index.md
-          - Storage: research/data-management/storage.md
+          - Data storage: research/data-management/storage.md
           - Encryption: research/data-management/encryption.md
           - Data sharing agreements: research/data-management/dsa.md
           - Sharing and publication: research/data-management/sharing.md
@@ -122,7 +123,6 @@ nav:
       - Data analysis:
           - research/data-analysis/index.md
           - Pre-analysis plan: research/data-analysis/pap.md
-          - Style guide: research/data-analysis/style-guide.md
       - Publication:
           - research/publication/index.md
           - Blogs: research/publication/blogs.md

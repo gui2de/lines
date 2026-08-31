@@ -1,24 +1,42 @@
-# Style guide
+# Workflow
 
-Conventions for writing analysis code. The principle behind all of them: someone else should be
-able to run your do-files, on their machine, a year from now, without asking you anything.
+The research workflow consists of using good computer hygiene for the purpose of reproducibility
+and transparency.
 
-## Three stages of data
+## Data workflow
 
-`raw` → `clean` → `analysis`
+Data moves through three stages, and each project folder is structured to match:
+
+`0_scripts` · `1_raw` · `2_clean` · `3_outputs`
 
 - **Raw** data are inviolate. Never modify them, and **never open them in Excel**.
 - **Clean** data have had all substantive changes applied. Multiple analyses build on this common dataset, so they reach consistent conclusions.
-- **Analysis** datasets are pruned to the variables and observations one analysis needs, and stored alongside that analysis — not in the general data folder.
+- **Outputs** are pruned to the variables and observations one analysis needs, and stored alongside that analysis — not in the general data folder.
 
 No substantive change — in particular no change to any value — happens downstream of the clean
-dataset. Only derived variables, merges and filters.
+dataset. Only derived variables, merges and filters. Add sub folders under each as needed; for
+historical projects the structure may differ.
+
+### Rules
+
+- **One active version of each file.** To refer to a file from two places, use a link or a shortcut — never copy, duplicate or download it.
+- **Never clone a GitHub repo into Drive or Box.** Clone it locally.
+- **Access files online or sync them locally** — do not download or email them.
+- **Data folders are only shared with IRB-approved team members.** RAs and interns must be [added to the IRB](ethics/irb-account.md) first.
+- **Folders must be gui2de-created.** If your project has no folder, or you cannot access it, ask your Research Manager. Existing folders are listed in the [gui2de folders list](https://docs.google.com/spreadsheets/d/1iq0d_jkqFv95JkLRjGV37CiFThAKxGvDZ8n-GPU7bdY/edit).
+- New projects go in Shared Drives; Box and personal Drive folders are being phased out for project management files.
+
+Which platform holds what is covered in [files and folders](../onboarding/workflow/files-and-folders.md);
+full detail is in the [gui2de folder protocol](https://docs.google.com/document/d/1dP73iDZsJAcwM0IjeliZnXFk6kR-SeRrsbmF8_t-MZs/edit).
+
+## Coding for reproducibility
+
+Someone else should be able to run your do-files, on their machine, a year from now, without asking
+you anything.
 
 Keep cleaning and analysis in **separate do-files**, and maintain a **master do-file** that calls
 every cleaning file in order. Run the master from time to time, not just its parts, so dependencies
 stay documented and working.
-
-## Writing the code
 
 - **Comment everything.** Aim for roughly 40% of lines carrying a comment explaining intent, not mechanics.
 - **Prefer locals to globals.** Keep scope as narrow as possible — globals defined in another file and invoked accidentally are a common source of bugs.
@@ -28,7 +46,7 @@ stay documented and working.
 - **Indent** inside loops and if-statements.
 - Mark unfinished work with a searchable `// TODO:` followed by your initials and what needs doing.
 
-## Do-file structure
+### Do-file structure
 
 Start with a header giving date, author, purpose, inputs and outputs, and a version log:
 
@@ -61,9 +79,10 @@ global clean "$root/data/clean"
 ```
 
 This is what makes do-files **interoperable**: paths are resolved once, from `c(username)`, so the
-same file runs unmodified for everyone.
+same file runs unmodified for everyone. Globals and if conditions at the top of the file keep the
+rest of it machine-independent.
 
-## Versioning
+### Versioning
 
 Procedures vary by PI and project, so check with yours. A common approach is an `/archive/` folder
 beside the do-files, with archived versions named by date and author initials —

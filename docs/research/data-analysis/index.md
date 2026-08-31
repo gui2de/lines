@@ -1,4 +1,3 @@
 # Data analysis
 
-Our [pre-analysis plan](pap.md) should be registered before analysis begins. The
-[style guide](style-guide.md) sets our conventions for writing analysis code.
+Our [pre-analysis plan](pap.md) should be registered before analysis begins. Conventions for writing analysis code are in [workflow](../workflow.md).

@@ -4,6 +4,6 @@ Logos and brand assets are in the [Logos folder](https://drive.google.com/drive/
 of the staff Shared Drive, alongside the Georgetown Economics lockup.
 
 - **gui2de blue** — `#181875`
-- **gui2de gold** — used for the superscript ² and as an accent
+- **gui2de gold** — `#CA861A`, used for the superscript ² and as an accent
 
 Presentation and preliminary-results templates are in [templates](templates.md).

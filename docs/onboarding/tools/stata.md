@@ -4,7 +4,7 @@
 - **Students** cannot access Stata SE through the webstore. gui2de RAs request the installer and licence [here](https://docs.google.com/document/d/1YmW9XAHRyny9PQV7DwW0n0UfJgqqcKqNDj03MYf6uJw/edit).
 
 Our conventions for writing analysis code are in the
-[style guide](../../research/data-analysis/style-guide.md).
+[workflow](../../research/workflow.md).
 
 Training materials are in the
 [Stata folder](https://drive.google.com/drive/folders/1svbXVjKLNV0nqHzkPIoWV9iMsK1bhxmG)

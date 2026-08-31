@@ -25,3 +25,39 @@
   content: "lines";
   font-style: italic;
 }
+
+/* Links: make them stand out from body text.
+   Brand gold (#CA861A) on white is only 3.0:1 — below the 4.5:1 AA minimum for
+   body text — so it is used for hover and for dark mode, where it passes.
+   The always-on signal is the underline plus weight, which does not rely on colour. */
+.md-typeset a {
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: rgba(202, 134, 26, 0.55);   /* gold underline, blue text */
+  transition: color .15s, text-decoration-color .15s;
+}
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: #9A6510;                                    /* darkened gold, 5.0:1 on white */
+  text-decoration-thickness: 2px;
+  text-decoration-color: currentColor;
+}
+/* Dark mode: gold reads well on slate and passes contrast there */
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #E3B341;
+  text-decoration-color: rgba(227, 179, 65, 0.5);
+}
+[data-md-color-scheme="slate"] .md-typeset a:hover,
+[data-md-color-scheme="slate"] .md-typeset a:focus {
+  color: #F0C868;
+}
+/* Headings and the permalink anchor keep their own styling */
+.md-typeset h1 a, .md-typeset h2 a, .md-typeset h3 a,
+.md-typeset h4 a, .md-typeset h5 a, .md-typeset h6 a,
+.md-typeset a.headerlink {
+  font-weight: inherit;
+  text-decoration: none;
+}

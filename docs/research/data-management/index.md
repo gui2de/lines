@@ -3,7 +3,7 @@
 At the project design phase, define what kind of data will be collected and what the sources will
 be. Each type — primary, secondary, administrative — carries different handling requirements.
 
-While the onboarding material cover [high-level folder structure principles](../../onboarding/workflow/folder-structure.md), this guideline covers important principles of **[data management and storage](storage.md)** to follow during any research project. 
+While the onboarding material cover [high-level folder structure principles](../../onboarding/workflow/files-and-folders.md), this guideline covers important principles of **[data management and storage](storage.md)** to follow during any research project. 
 
 In addition :   
 
