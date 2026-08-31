@@ -1,30 +1,23 @@
 # Encryption and key management
 
-Encrypting data in SurveyCTO keeps us compliant with the IRB — only people listed on the IRB
-should be able to read the data — and honours the non-disclosure terms partners share identifiable
-data under.
+Encrypting data end-to-end in SurveyCTO keeps us compliant with the IRB: only people listed on the IRB
+should be able to read the data, and is best practice for safe data handling.
 
 ## How it works
 
-Encryption uses a **key pair**, each key a short text file with a `.pem` extension:
+Encryption uses a **public/private key pair**, each key a short text file with a `.pem` extension:
 
-- a **public key**, held on the server, which encrypts the data
-- a **private key**, held only on the machines that will decrypt it
-
-## Handling the private key
-
-!!! danger "Lose the private key and the data is gone"
-
-    Nothing else can decrypt it. Back the key up — locally on the machine used to download data,
-    and in a second secure location accessible only to IRB-approved users.
-
-- **Never** share or upload the private key without a secure connection. Share it offline, or through a departmental Box folder.
-- Give it to as few people as possible — ideally **one person**, who downloads the data and makes the decrypted version available to the team on Box. That avoids copies of the key proliferating.
-- If several people must download from SurveyCTO directly, identify them explicitly and keep the number small.
+- a **public key**, held on the SurveyCTO server, which encrypts the data (think of it as a lock)
+- a **private key**, held only on the machines that will decrypt it (think of it as a key that opens the lock)
 
 ## Key management
 
-- **One key pair per IRB submission.** A team with several submissions and the same people on all of them can share one pair.
+- **Key pairs are created by Research Managers.** If you are joining a team and designing a new form, ask your Research Manager about the existing key(s) on the team. The Research Manager is in charge of creating the pair, keeping a safe, backed-up copy in the relevant gui2de-Departmental Box folder, and share it only with the people who need it.
+- **One key pair per project or team.** A team with several forms and the same people on all of them can share a key pair, to avoid having too many keys to manage.
 - Give keys **simple, explicit names**, so it is always clear which form uses which key.
-- The **project coordinator** generates the pair, keeps a safe copy, and shares the private key only with the people who need it.
-- The **data manager** keeps a backup of every pair, against local machine failure and staff departures.
+- All key pairs are **backed up in a dedicated gui2de Box departmental folder**, ensuring against local machine failure and staff departures.
+- People given access to the private key should not download, copy, or email it. They should only **access it by locally syncing the keys Box folder on their machine, using Box Drive**. If necessary, they can make the folder available offline via Box Drive.
+
+!!! danger "Lose the private key and the data is gone"
+
+    Nothing else can decrypt it, which is why the keys are backed up on a gui2de Box folder.
