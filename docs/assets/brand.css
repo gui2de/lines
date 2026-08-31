@@ -1,0 +1,27 @@
+:root {
+  --md-primary-fg-color:        #181875;
+  --md-primary-fg-color--light: #2a2a9c;
+  --md-primary-fg-color--dark:  #10104f;
+  --md-accent-fg-color:         #d99a26;
+}
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #e8b558;
+}
+.md-header__button.md-logo img { height: 1.6rem; width: auto; }
+
+/* Wordmark: "gui2de" + italic "lines", rendered as one word */
+.md-header__title .md-header__topic:first-child .md-ellipsis {
+  font-size: 0;
+}
+.md-header__title .md-header__topic:first-child .md-ellipsis::before,
+.md-header__title .md-header__topic:first-child .md-ellipsis::after {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+.md-header__title .md-header__topic:first-child .md-ellipsis::before {
+  content: "gui2de";
+}
+.md-header__title .md-header__topic:first-child .md-ellipsis::after {
+  content: "lines";
+  font-style: italic;
+}
