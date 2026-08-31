@@ -7,7 +7,11 @@ the two datasets.
 
 ## Building the audit survey
 
-Use SurveyCTO's automated backcheck functions to generate the audit instrument.
+Use SurveyCTO's automated backcheck functions to generate the audit instrument. The original and
+audit forms both publish into a single server dataset, keyed on the original survey's unique ID;
+the audit form then pulls the list of surveys still to be audited back out of it.
+
+![How the original survey, server dataset and audit survey publish and pull between each other, keyed on the original survey unique ID](img/audit-survey-workflow.png)
 
 ## Comparing the datasets
 

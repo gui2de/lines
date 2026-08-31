@@ -21,3 +21,46 @@ Encryption uses a **public/private key pair**, each key a short text file with a
 !!! danger "Lose the private key and the data is gone"
 
     Nothing else can decrypt it, which is why the keys are backed up on a gui2de Box folder.
+
+## Encrypting a SurveyCTO form
+
+SurveyCTO encrypts data at the point of collection using your own 2048-bit keys, so the data is
+not readable by SurveyCTO's own servers.
+
+### Create the key pair
+
+- **Online** — Design tab → *Tools* under "Your forms and datasets" → *Create new key*. Name the pair, then download the public and private keys. The pair is generated locally inside your browser, so the private key is never sent to the server.
+- **Offline** — in SurveyCTO Sync, *Tools* → *Create a public/private key pair*.
+
+### Encrypt the form
+
+!!! warning "A form's encryption status cannot be changed after publishing"
+
+    Not in either direction. To encrypt an existing form you must upload a new one.
+
+- In the **form designer**: under *Advanced Options*, tick "Do you want this form's data to be encrypted?" and upload the **public** key.
+- In the **spreadsheet form definition**: open the public key in a text editor and copy its *text* — not the filename — into the `public_key` column of the Settings tab, including the header and footer lines:
+
+```
+-----BEGIN PUBLIC KEY-----
+PUBLIC KEY IS OVER HERE
+-----END PUBLIC KEY-----
+```
+
+A single typo in the key text means the private key will not decrypt the data.
+
+!!! danger "Always test before collection starts"
+
+    Submit a mock entry, then download and decrypt it with the private key. Without this test you
+    risk collecting data you cannot read — and the form's encryption status cannot be changed later.
+
+### Access the data
+
+- **Online console** (Export tab) — you are prompted to upload the private key, which is used locally only.
+- **SurveyCTO Sync** — give the filepath of the private key just below the filepath of your CSV export folder.
+
+### Publishable fields
+
+Mark a field `yes` in the `publishable` column to have it appear decrypted on the server. This is
+required for any field you want to pull to an online server, and lets those fields be downloaded
+from the console without the private key.
