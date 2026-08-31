@@ -7,9 +7,8 @@ subjects, [ethics approval](ethics/index.md) — which must be in place before a
 collected. [Fundraising](fundraising/index.md) runs in parallel.
 
 Once a project is live, [data management](data-management/index.md) governs how data is obtained, maintained, stored and
-shared. [Primary data collection](data-collection/index.md) covers running a survey,
-with [remote data collection](remote/index.md) for phone surveys and
-[fieldwork](fieldwork/index.md) for in-person work. Results move through
+shared. [Primary data collection](data-collection/index.md) covers running a survey, in person or by
+phone, and [fieldwork](fieldwork/index.md) covers the teams, kit and training behind it. Results move through
 [data analysis](data-analysis/index.md) to [publication](publication/index.md).
 
 **GU-PASS** is Georgetown University's research regulatory and compliance online system for submiting a few forms relevant in that process, including:   

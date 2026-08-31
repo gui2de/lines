@@ -19,15 +19,14 @@ historical projects the structure may differ.
 
 ### Rules
 
+More details in the [gui2de folder protocol](https://docs.google.com/document/d/1dP73iDZsJAcwM0IjeliZnXFk6kR-SeRrsbmF8_t-MZs/edit).
+
 - **One active version of each file.** To refer to a file from two places, use a link or a shortcut — never copy, duplicate or download it.
 - **Never clone a GitHub repo into Drive or Box.** Clone it locally.
 - **Access files online or sync them locally** — do not download or email them.
 - **Data folders are only shared with IRB-approved team members.** RAs and interns must be [added to the IRB](ethics/irb-account.md) first.
 - **Folders must be gui2de-created.** If your project has no folder, or you cannot access it, ask your Research Manager. Existing folders are listed in the [gui2de folders list](https://docs.google.com/spreadsheets/d/1iq0d_jkqFv95JkLRjGV37CiFThAKxGvDZ8n-GPU7bdY/edit).
 - New projects go in Shared Drives; Box and personal Drive folders are being phased out for project management files.
-
-Which platform holds what is covered in [files and folders](../onboarding/workflow/files-and-folders.md);
-full detail is in the [gui2de folder protocol](https://docs.google.com/document/d/1dP73iDZsJAcwM0IjeliZnXFk6kR-SeRrsbmF8_t-MZs/edit).
 
 ## Coding for reproducibility
 
@@ -38,17 +37,18 @@ Keep cleaning and analysis in **separate do-files**, and maintain a **master do-
 every cleaning file in order. Run the master from time to time, not just its parts, so dependencies
 stay documented and working.
 
-- **Comment everything.** Aim for roughly 40% of lines carrying a comment explaining intent, not mechanics.
-- **Prefer locals to globals.** Keep scope as narrow as possible — globals defined in another file and invoked accidentally are a common source of bugs.
+- **Comment a lot.** Aim for roughly 40% of lines carrying a comment.
+- **Comments are for intent.** A comment should explain the intent or reason behind a coding line or block, not state in plain english what the code does.
+- **Use macros, like locals and globals.** Parameters that are used multiple times should be defined as macros, to make code easy to follow and update.
 - **Use temp files** rather than saving intermediate `.dta` files that clutter the project.
 - **Break lines at around 80 characters**, using `///` to continue and indenting the next line.
 - **Name variables traceably.** A hybrid of mnemonic and questionnaire reference works well — `s2name` is the `name` defined in section 2 of the questionnaire.
 - **Indent** inside loops and if-statements.
 - Mark unfinished work with a searchable `// TODO:` followed by your initials and what needs doing.
 
-### Do-file structure
+### Scripts structure
 
-Start with a header giving date, author, purpose, inputs and outputs, and a version log:
+While these rules apply to all coding languages, the examples below are with Stata. Start your script with a header giving date, author, purpose, inputs and outputs, and a version log:
 
 ```stata
 /*
@@ -87,6 +87,8 @@ rest of it machine-independent.
 Procedures vary by PI and project, so check with yours. A common approach is an `/archive/` folder
 beside the do-files, with archived versions named by date and author initials —
 `data_cleaning_20160501_AZ.do`.
+
+Some projects use [Git/Github](../onboarding/tools/git-github.md) for version control. 
 
 ## Further reading
 

@@ -7,4 +7,6 @@ instrument in [SurveyCTO](surveycto.md). Once data starts arriving, run
 [high frequency checks](hfc.md) daily and [backchecks](backchecks.md) on a sample of completed
 interviews; [audits](audits.md) provide a further independent check.
 
-For phone surveys, see [remote data collection](../remote/index.md).
+Phone surveys use the same pipeline, with a shorter instrument (see
+[remote survey writing](survey-design.md#remote-survey-writing)) and
+[case management](case-management.md) to track who still needs to be reached.

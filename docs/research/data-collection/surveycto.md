@@ -4,7 +4,7 @@ The process to develop a survey is the following
 1. Create a Google Doc document in the Project [folder](../../onboarding/workflow/files-and-folders.md) following the [Gdoc survey template]() to define survey modules and survey questions
     1. Classic [survey modules](survey-design.md)
     1. Tips to write [good survey questions](survey-design.md)
-    1. Tips to write [good survey questions for phone data collection](../remote/survey-writing.md)
+    1. Tips to write [good survey questions for phone data collection](survey-design.md#remote-survey-writing)
 1. Use Google Doc comments, tracked changes and assigned tasks to make revisions on this document as a team
 1. Set a time and date for the switch from Google Doc to Google Sheets (SurveyCTO form), mark the Google Doc ARCHIVED and code the first SurveyCTO draft of the survey in Google Sheets
     1. SurveyCTO training
