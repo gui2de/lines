@@ -1,24 +1,10 @@
 # Procurement
 
-Which route applies depends on how much you are spending with a supplier over the year. Email the
-**McCourt procurement inbox** to start either one.
+Which route applies depends what you are buying and how much you are spending with a supplier over the year. 
 
-- **Purchase order (PO)** — suppliers under $10k/year
-- **Contract** — suppliers over $10k/year
-
-## Supplier invoices
-
-- Send invoices for POs and contracts to the **PO invoices inbox**, copying the McCourt procurement inbox so the receipt can be created.
-- Chase problems through the **generic accounts payable inbox** first; expect a reply within the working day.
-
-!!! warning "Never attach the invoice when following up"
-
-    Attaching a document to a follow-up email creates a *new* record in AppZen, which duplicates the
-    request and delays it further. Reference the invoice, do not attach it.
-
-Do not copy the generic accounts payable inbox when writing to a named accounts payable contact —
-that also generates two tickets and two people working the same problem.
-
-## Subawards
-
-Subawards to academic institutions go to the **subaward inbox**, not through procurement.
+- **Procard** - for small, day-to-day transactions.
+- For Amazon, Dell/Apple and Staples, use **Punchout** rather than buying directly.
+- For flights and hotels, use **Concur**, the university travel agent — see [travel](../travel.md).
+- **Purchase order (PO)** for goods and services under $10k/year
+- **Miscellaenous Payment Request** for non-employee honoraria and petty reimbursements
+- **Contracts** for goods and services suppliers over $10k/year. 
