@@ -1,10 +1,10 @@
 # Storage
 
-!!! warning Never download or email data.
+!!! warning "Never download or email data"
 
-    No data is ever downloaded to your personal machine outside of Box Sync or Box Drive
-    Data is never shared over email. Data sharing folders are set up for each partner to drop data in it.
-    
+    - No data is ever downloaded to your personal machine outside of Box Sync or Box Drive
+    - Data is never shared over email. Data sharing folders are set up for each partner to drop data in it.
+
 
 Details on folder structure and data storage are in the [gui2de folder protocol](https://docs.google.com/document/d/1dP73iDZsJAcwM0IjeliZnXFk6kR-SeRrsbmF8_t-MZs/edit). The essentials:
 
