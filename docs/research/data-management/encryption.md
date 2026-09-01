@@ -63,4 +63,8 @@ A single typo in the key text means the private key will not decrypt the data.
 
 Mark a field `yes` in the `publishable` column to have it appear decrypted on the server. This is
 required for any field you want to pull to an online server, and lets those fields be downloaded
-from the console without the private key.
+from the console without the private key. This matters a lot for **dynamic workflows**, for example case management, 
+audits/backchecks, or other "pulldata" and "publish into" combination that requires a server dataset to be 
+updated automatically with form submissions: any such field must be made "publishable", or the server dataset
+will not be updated (as encrypted data cannot be read by the SurveyCTO server).
+
