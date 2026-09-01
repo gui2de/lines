@@ -85,6 +85,7 @@ nav:
           - External Grants: research/fundraising/grants-external.md
           - Gifts: research/fundraising/gifts.md
           - RGAs: research/fundraising/rgas.md
+          - Budgeting: research/fundraising/budgeting.md
       - Ethics & IRB:
           - research/ethics/index.md
           - CITI training: research/ethics/citi.md
@@ -131,13 +132,13 @@ nav:
           - Summer interns: operations/people/summer-interns.md
           - Staff onboarding: operations/people/onboarding.md
           - Off-boarding: operations/people/offboarding.md
+          - Professional development: operations/people/professional-development.md
       - Money:
           - operations/money/index.md
           - Procurement: operations/money/procurement.md
           - Reimbursements: operations/money/reimbursements.md
           - Procard: operations/money/procard.md
       - Travel: operations/travel.md
-      - Professional development: operations/professional-development.md
       - Events:
           - operations/events/index.md
           - Seminar series: operations/events/seminar-series.md
