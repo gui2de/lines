@@ -1,4 +1,4 @@
-# Audits
+# Audits and backchecks
 
 Auditing is the strongest check on data quality. Take a random subset of observations — usually
 **10%** — and enter them a second time, either by sending different enumerators to re-administer

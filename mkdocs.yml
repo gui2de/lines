@@ -104,8 +104,7 @@ nav:
           - Survey design: research/data-collection/survey-design.md
           - Case management: research/data-collection/case-management.md
           - High frequency checks: research/data-collection/hfc.md
-          - Backchecks: research/data-collection/backchecks.md
-          - Audits: research/data-collection/audits.md
+          - Audits and backchecks: research/data-collection/audits-and-backchecks.md
       - Fieldwork:
           - research/fieldwork/index.md
           - Enumerator training: research/fieldwork/training.md

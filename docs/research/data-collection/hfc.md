@@ -31,7 +31,7 @@ against the full sample.
 
 Alongside the checks, report the research outputs that matter for your design — balance between
 arms for a recruitment survey, compliance rates for a compliance survey, percent matching for an
-[audit](audits.md).
+[audit](audits-and-backchecks.md).
 
 ## Writing the do-file
 
